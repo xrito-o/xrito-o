@@ -8,8 +8,8 @@
 </h3>
 
 <h3 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono+nerd+font&weight=200&size=16&duration=1&pause=100000&color=F7F7F7&width=635&height=30&lines=%F0%9F%94%AD+I'm+a+Linux+Enthusiast+who+likes+to+play+around+with+Computers+and+stuff." alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono+nerd+font&weight=200&size=16&duration=1&pause=100000&color=F7F7F7&width=635&height=30&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+how+to+code+properly" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono+nerd+font&weight=200&size=13&duration=1&pause=100000&color=F7F7F7&width=635&height=30&lines=%F0%9F%94%AD+I'm+a+Linux+Enthusiast+who+likes+to+play+around+with+Computers+and+stuff." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono+nerd+font&weight=200&size=13&duration=1&pause=100000&color=F7F7F7&width=635&height=30&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+how+to+code+properly" alt="Typing SVG" /></a>
   
 </h3>
 
