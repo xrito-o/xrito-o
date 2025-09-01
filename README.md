@@ -4,7 +4,7 @@
 </h3>
 
 <h3 align="right">
-  <img align="right" alt="Coding" width="160" src="https://i.pinimg.com/originals/22/cf/de/22cfde6c6415e1f061e49e0983059782.gif">
+  <img align="right" alt="Coding" width="160" src="https://raw.githubusercontent.com/xrito-o/xrito-o/refs/heads/main/photo/Coding.gif">
 </h3>
 
 <h3 align="left">
